@@ -1,0 +1,47 @@
+{
+  "LINK": {
+    "BGMI": {
+      "gamename": "BGMI",
+      "name": "libbgmi.so",
+      "ntr": "https://t.me/+0DOyJSE9YNhhY2U1",
+      "test": "https://t.me/+0DOyJSE9YNhhY2U1",
+      "version": 1
+    }
+  },
+  "LINKS": {
+    "Links": {
+      "NTR": "https://t.me/+0DOyJSE9YNhhY2U1",
+      "apk": "https://t.me/+0DOyJSE9YNhhY2U1",
+      "apk_name": "mod.apk",
+      "obb": "https://t.me/+0DOyJSE9YNhhY2U1",
+      "obb_name": "https://t.me/+0DOyJSE9YNhhY2U1"
+    }
+  },
+  "SERVER": {
+    "Server": {
+      "@ZENIN_OWNERX": "NTR"
+    }
+  },
+  "STATUS": {
+    "Status": {
+      "status": "SAFE",
+      "version": "VERSION 3.4.0"
+    }
+  },
+  "WARNING": {
+    "Warning": {
+      "Msg": "Welcome",
+      "Ok": "OK",
+      "Title": "Bgmi"
+    }
+  },
+  "aplikasi": {
+    "G5": {
+      "id": 0,
+      "package": "com.pubg.imobile",
+      "status": "STATUS : Live",
+      "title": "BATTLEGROUND MOBILE INDIA",
+      "version": "VERSION : 3.4.0"
+    }
+  }
+}
